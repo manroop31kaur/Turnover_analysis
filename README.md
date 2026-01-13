@@ -25,3 +25,8 @@ IBM HR Employee Attrition dataset (1,470 employees)
 
 ## Outcome
 The analysis helps identify departments and tenure periods with higher retention risk to support workforce planning decisions.
+## Data Source
+The dataset used in this project was sourced from Kaggle:
+IBM HR Analytics Employee Attrition & Performance dataset.
+
+The data was used for educational and portfolio purposes only.
